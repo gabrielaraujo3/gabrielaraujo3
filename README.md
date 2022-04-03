@@ -10,7 +10,7 @@ Oi, meu nome é Gabriel, estou tentando aprender a programar e aqui vai ficar me
 
 ##
 
-Já dei uma estudada e usei um pouco de cada tecnologia abaixo e no momento estou no Javascript e suas bibliotecas
+Já estudadei e usei um pouco de cada tecnologia abaixo e no momento estou no Javascript e suas bibliotecas
 
 </div>
 <div align='center' style='display: inline_block'><br>
