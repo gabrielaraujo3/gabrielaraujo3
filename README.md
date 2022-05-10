@@ -31,10 +31,3 @@ Já estudadei e usei um pouco de cada tecnologia abaixo e no momento estou no Ja
   <img align='center' alt='Logo Sqlite' height='30' width='40' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg'>
   <img align='center' alt='Logo Vscode' height='30' width='40' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg'>
 </div>
-
-<div align='center'><br>
-  <a href='mailto:araujog388@gmail.com'>
-  <img align='center' alt='Logo Gmail' src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'>
-</div>
-
-
