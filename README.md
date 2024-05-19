@@ -6,8 +6,6 @@
 
 ##
 
-Já estudadei e usei um pouco de cada tecnologia abaixo e no momento estou no Javascript e suas bibliotecas
-
 </div>
 <div align='center' style='display: inline_block'><br>
   <img align='center' alt='Logo Python' height='30' width='40' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg'>
