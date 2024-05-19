@@ -1,7 +1,3 @@
-## Gabriel Araujo
-
-Oi, meu nome é Gabriel, estou aprendendo a programar e aqui vai ficar meu progresso.
-
 ##
 
 <div align='center'>
